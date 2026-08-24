@@ -31,6 +31,11 @@ Technologies Used
 Python 🐍
 Streamlit
 
+### Streamlit Frontend
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b93f58e4-94c3-422f-bbf9-b360ea08a228" />
+
+The screenshot above shows the Streamlit interface with dataset visualization, sorting options, pagination, and rows-per-page selection.
 
 Author
 
